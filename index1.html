@@ -1,0 +1,41 @@
+<html>
+<head>
+                                <meta charset="UTF-8">
+              <title> Ajustes </title>           
+  <p></p>
+        <FONT COLOR="black">                                         ●Wifi </FONT> </header>
+
+  <p></p>
+<label>Nombre de la red </label>
+<div class="">
+    <div class="">
+  <form class="login-form" action="login.php" method="post">
+  <input class="" type="text" name="nombre" id="text"
+  placeholder="Nombre de la red wifi" aria-label="text">
+  <p></p>
+<label>Contraseña</label>
+<div class="">
+    <div class="">
+  <input class="" type="password" name="pass" id="password"
+  placeholder="Ingrese la contraseña" aria-label="text">
+</div>
+    <div class="col">
+  <button class="btn btn-primary" type="button" onclick="mostrarContrasena()">Mostrar Contraseña</button>
+<input type="submit"
+value="Conectar"</p>
+</form>
+  </div>
+</form>
+
+<script>
+  function mostrarContrasena(){
+      var tipo = document.getElementById("password");
+      if(tipo.type == "password"){
+          tipo.type = "text";
+      }else{
+          tipo.type = "text";
+      }
+  }
+</script>
+
+</html>
