@@ -1,4 +1,4 @@
-- 👋 Hola mi nombre es yimber777 y este es un repositorio para crear un phishing wifi
+- 👋 Hola mi nombre es Yimber777 y este es un repositorio para crear un phishing wifi
 ---> sígueme en mi perfil de Facebook 
 ---> https://www.facebook.com/jimber.cevallos
 
@@ -18,3 +18,5 @@ Guardado nuestros tres archivos en este caso wifi
 
 ----le pedimos que nos ponga la clave el vecino o amigo y listo ya tenemos la contraseña
 Wifi guardada en nuestro celular ----
+NOTA : No me responsabilizo del mal uso de estos tres archivos que le puedan dar.
+AUTOR : Yimber777
